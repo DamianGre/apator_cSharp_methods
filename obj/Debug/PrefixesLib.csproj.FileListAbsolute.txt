@@ -1,0 +1,6 @@
+C:\Users\tomek\Desktop\programowanie kody jakies\PrefixesLib\PrefixesLib\bin\Debug\PrefixesLib.dll
+C:\Users\tomek\Desktop\programowanie kody jakies\PrefixesLib\PrefixesLib\bin\Debug\PrefixesLib.pdb
+C:\Users\tomek\Desktop\programowanie kody jakies\PrefixesLib\PrefixesLib\obj\Debug\PrefixesLib.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\programowanie kody jakies\PrefixesLib\PrefixesLib\obj\Debug\PrefixesLib.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\programowanie kody jakies\PrefixesLib\PrefixesLib\obj\Debug\PrefixesLib.dll
+C:\Users\tomek\Desktop\programowanie kody jakies\PrefixesLib\PrefixesLib\obj\Debug\PrefixesLib.pdb
